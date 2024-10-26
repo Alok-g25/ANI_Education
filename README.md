@@ -1,2 +1,3 @@
 # ANI_Education
-This is Education website
+This is Education website 
+This static education website, built with React and styled using Tailwind CSS, offers a clean, modern design that’s fully responsive. Key sections include Courses, Programs, Faculty, Admissions, and Contact, all organized for easy navigation. React components enable consistency and reusability, while Tailwind provides streamlined, customizable styling for unique layouts like course grids and testimonials. A minimalist color scheme with accessible typography enhances readability and professionalism. The site includes engaging content to inform and inspire users, with clear calls-to-action encouraging inquiries and enrollments, making it an ideal platform for delivering essential educational resources and information effectively
